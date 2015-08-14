@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Ruby profiler"
+date:   2015-08-14 14:06:27
+categories: Ruby
+---
 ##Code to measure
 
     def factorial(i)
@@ -75,3 +81,4 @@
 - Always profile on production
 - Disable GC
 - Profile at least twice and ignore the 1st result
+
